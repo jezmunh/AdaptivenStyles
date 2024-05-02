@@ -1,2 +1,2 @@
 # AdaptivenStyles
-Yes, that's another study project (again) 
+A page with adaptiven styles
